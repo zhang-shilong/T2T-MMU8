@@ -30,3 +30,9 @@ To avoid confusion, previous versions are not displayed on this page, but you ca
 ## License
 
 All data is released to the public domain ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+
+## Changelog
+
+```
+2025-03-01: First release (T2T-MMU8v1.0).
+```

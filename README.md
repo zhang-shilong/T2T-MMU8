@@ -20,7 +20,6 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
 ### Assembly
 
 - [T2T-MMU8v2.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v1.0/T2T-MMU8.v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, **Q100** (Merqury QV, _k_=21);
-
 - [T2T-MMU8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v1.0/T2T-MMU8.v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, Q80.11 (Merqury QV, _k_=21).
 
 ### Sequencing data

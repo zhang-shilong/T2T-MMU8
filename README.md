@@ -1,10 +1,10 @@
-# T2T-MMU8 Q100 project
+# T2T-MMU8 QV100 project
 
 The complete sequence of a rhesus macaque. All resources are available on this site.
 
-This project’s objective is to produce a telomere-to-telomere assembly of the rhesus macaque genome at **Q100** accuracy. Here, Q100 signifies that every 21‑mer in the final assembly is corroborated by Illumina or PacBio HiFi reads, guaranteeing an essentially error-free result when validated via the same _k_-mer–based strategy used in prior high-quality assemblies (e.g., the gold-standard human genome [T2T-CHM13](https://www.science.org/doi/10.1126/science.abj6987)).
+This project’s objective is to produce a telomere-to-telomere assembly of the rhesus macaque genome at **QV100** accuracy. Here, QV100 signifies that every 21‑mer in the final assembly is corroborated by Illumina or PacBio HiFi reads, guaranteeing an essentially error-free result when validated via the same _k_-mer–based strategy used in prior high-quality assemblies (e.g., the gold-standard human genome [T2T-CHM13](https://www.science.org/doi/10.1126/science.abj6987)).
 
-To achieve this, we derived autosomes, chrX, and chrMT from a "haploid" parthenogenetic cell line (MMU2019108-1), while chrY was obtained from a separate individual (MMU1003063). The initial assembly combined PacBio HiFi data with ONT reads using Hifiasm’s integration mode. Afterward, contigs were manually assigned to chromosomes, and regions with complex tangles were further resolved through ONT R10.4.1–based local assemblies. We then applied a technology-customized polishing pipeline—addressing homopolymer errors, ONT strand bias and other known artifacts—to boost base accuracy while minimizing over-polishing. Finally, we generated a Q100 assembly.
+To achieve this, we derived autosomes, chrX, and chrMT from a "haploid" parthenogenetic cell line (MMU2019108-1), while chrY was obtained from a separate individual (MMU1003063). The initial assembly combined PacBio HiFi data with ONT reads using Hifiasm’s integration mode. Afterward, contigs were manually assigned to chromosomes, and regions with complex tangles were further resolved through ONT R10.4.1–based local assemblies. We then applied a technology-customized polishing pipeline—addressing homopolymer errors, ONT strand bias and other known artifacts—to boost base accuracy while minimizing over-polishing. Finally, we generated a QV100 assembly.
 
 As sequencing and assembly technologies continue to advance, we will update both the assembly and its annotations on an ongoing basis. If you identified any issues, please check [Issues](https://github.com/zhang-shilong/T2T-MMU8?tab=readme-ov-file#issues).
 
@@ -19,8 +19,8 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
 
 ### Assembly
 
-- [T2T-MMU8v2.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v2.0/T2T-MMU8.v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, **Q100** (Merqury QV, _k_=21);
-- [T2T-MMU8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v1.0/T2T-MMU8.v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, Q80.11 (Merqury QV, _k_=21).
+- [T2T-MMU8v2.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v2.0/T2T-MMU8.v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, **QV100** (Merqury QV, _k_=21);
+- [T2T-MMU8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/v1.0/T2T-MMU8.v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, QV80.11 (Merqury QV, _k_=21).
 
 ### Sequencing data
 
@@ -55,6 +55,6 @@ All data is released to the public domain ([CC0](https://creativecommons.org/pub
 ## Changelog
 
 ```
-2025-06-19: Q100 release (T2T-MMU8v2.0).
+2025-06-19: QV100 release (T2T-MMU8v2.0).
 2025-03-01: First release (T2T-MMU8v1.0).
 ```

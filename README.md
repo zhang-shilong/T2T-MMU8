@@ -14,16 +14,16 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
 
 ### NCBI Genome
 
-- T2T-MMU8v2.0: under processing
+- **T2T-MMU8v2.0**: [GCA_049350105.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049350105.2/)
 - T2T-MMU8v1.0: [GCA_049350105.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049350105.1/)
 
 ### UCSC Track Hub
 
-Coming soon.
+- **T2T-MMU8v2.0**: [Click here to connect](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/trackhub/T2TMacaqueHub/hub.txt&genome=hub_6740604_T2T-MMU8v2.0&position=lastDbPos)
 
 ### Assembly
 
-- [T2T-MMU8v2.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete and near-perfect genome ([Merqury](https://github.com/marbl/merqury) estimated QV = 100, _k_ = 21; GCI = 100; and no unassembled / collapsed regions and unplaced contigs)
+- [**T2T-MMU8v2.0**](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete and near-perfect genome ([Merqury](https://github.com/marbl/merqury) estimated QV = 100, _k_ = 21; GCI = 100; and no unassembled / collapsed regions and unplaced contigs)
 - [T2T-MMU8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v1.0/T2T-MMU8v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete genome (Merqury estimated QV = 80.11, _k_ = 21; and no unplaced contigs)
 
 ### Sequencing data
@@ -31,12 +31,15 @@ Coming soon.
 - MMU2019108-1 (autosomes, chrX and chrMT)
   - PacBio WGS: [SRR32560529](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560529), [SRR32560530](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560530), [SRR32560537](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560537) and [SRR32560538](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560538)
   - ONT Ultra-long WGS (HAC): [SRR32560528](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560528)
-  - ONT Ultra-long WGS (R10.4.1 SUP): under processing
+  - ONT Ultra-long WGS (SUP):
+    - R10.4.1 SUP: [SRR34896721](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896721), [SRR34896722](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896722), [SRR34896723](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896723), [SRR34896724](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896724), [SRR34896726](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896726) and [SRR34896727](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896727)
+    - R9.4.1 SUP: [SRR34896719](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896719) and [SRR34896720](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896720)
   - Illumina WGS: [SRR32560527](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560527)
 - MMU1003063 (chrY)
   - PacBio WGS: [SRR32560524](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560524)
   - ONT Ultra-long WGS (HAC): [SRR32560525](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560525) and [SRR32560526](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560526)
-  - ONT Ultra-long WGS (R10.4.1 SUP): under processing
+  - ONT Ultra-long WGS (SUP):
+    - R10.4.1 SUP: [SRR34896717](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896717) and [SRR34896725](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896725)
   - Illumina WGS: [SRR27194597](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27194597)
   - Hi-C: [SRR32560531](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560531), [SRR32560532](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560532), [SRR32560533](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560533), [SRR32560534](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560534), [SRR32560535](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560535) and [SRR32560536](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560536)
 
@@ -108,7 +111,7 @@ All chains were generated with [transanno](https://github.com/informationsea/tra
 
 ### Non-syntenic regions
 
-- Rhesus macaque assemblies
+- Rhesus macaque (_Macaca mulatta_)
   - [Mmul_10](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/non_syntenic_regions/non_syntenic_regions.Mmul_10.bed)
   - [rheMacS_1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/non_syntenic_regions/non_syntenic_regions.rheMacS_1.0.bed)
 
@@ -129,6 +132,7 @@ Zhang, S. _et al_. A complete and near-perfect rhesus macaque reference genome: 
 ## Changelog
 
 ```
+2025-08-08: UCSC track hub for T2T-MMU8v2.0.
 2025-08-05: Annotation release for T2T-MMU8v2.0.
 2025-06-19: QV100 release (T2T-MMU8v2.0).
 2025-03-01: First release (T2T-MMU8v1.0).

@@ -19,7 +19,9 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
 
 ### UCSC Track Hub
 
-- **T2T-MMU8v2.0**: [Click here to connect](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/trackhub/T2TMacaqueHub/hub.txt&genome=hub_6740604_T2T-MMU8v2.0&position=lastDbPos)
+- **T2T-MMU8v2.0**
+  - Hub connect: [US](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MMU8v2.0&position=lastDbPos) / [Euro](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MMU8v2.0&position=lastDbPos) / [Asia](https://genome-asia.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MMU8v2.0&position=lastDbPos)
+  - [Hub URL](https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt)
 
 ### Assembly
 
@@ -34,13 +36,13 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
   - ONT Ultra-long WGS (SUP):
     - R10.4.1 SUP: [SRR34896721](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896721), [SRR34896722](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896722), [SRR34896723](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896723), [SRR34896724](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896724), [SRR34896726](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896726) and [SRR34896727](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896727)
     - R9.4.1 SUP: [SRR34896719](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896719) and [SRR34896720](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896720)
-  - Illumina WGS: [SRR32560527](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560527)
+  - Illumina WGS: [SRR32560527](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560527) and [SRR34896718](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896718)
 - MMU1003063 (chrY)
   - PacBio WGS: [SRR32560524](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560524)
   - ONT Ultra-long WGS (HAC): [SRR32560525](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560525) and [SRR32560526](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560526)
   - ONT Ultra-long WGS (SUP):
     - R10.4.1 SUP: [SRR34896717](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896717) and [SRR34896725](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896725)
-  - Illumina WGS: [SRR27194597](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27194597)
+  - Illumina WGS: [SRR27194597](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27194597) and [SRR34896692](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896692)
   - Hi-C: [SRR32560531](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560531), [SRR32560532](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560532), [SRR32560533](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560533), [SRR32560534](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560534), [SRR32560535](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560535) and [SRR32560536](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560536)
 
 Sequencing data will be released upon manuscript submission.

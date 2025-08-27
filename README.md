@@ -23,6 +23,8 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
   - Hub connect: [US](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MMU8v2.0&position=lastDbPos) / [Euro](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MMU8v2.0&position=lastDbPos) / [Asia](https://genome-asia.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MMU8v2.0&position=lastDbPos)
   - [Hub URL](https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt)
 
+Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigtrack).
+
 ### Assembly
 
 - [**T2T-MMU8v2.0**](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete and near-perfect genome ([Merqury](https://github.com/marbl/merqury) estimated QV = 100, _k_ = 21; GCI = 100; and no unassembled / collapsed regions and unplaced contigs)

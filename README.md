@@ -10,6 +10,9 @@ As sequencing and assembly technologies continue to advance, we will update both
 
 Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T2T-MFA8).
 
+> [!IMPORTANT]
+> Please note that T2T-MMU8 is a rhesus macaque genome assembly generated from MMU2019108-1 and MMU1003063 (chrY). This assembly is independent of [Mmul_10](https://doi.org/10.1126/science.abc6617) (isolate: AG07107; synonym: rheMac10; RefSeq accession: [GCF_003339765.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/)) and [Mmul_8.0.1](https://doi.org/10.1186/1745-6150-9-20) (isolate: 17573; synonym: rheMac8; RefSeq accession: [GCF_000772875.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000772875.2/)).
+
 ## Resources
 
 ### NCBI Genome

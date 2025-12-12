@@ -17,8 +17,8 @@ Check our sister reference genome: [T2T-MFA8](https://github.com/zhang-shilong/T
 
 ### NCBI Genome
 
-- **T2T-MMU8v2.0**: [GCA_049350105.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049350105.2/)
-- T2T-MMU8v1.0: [GCA_049350105.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049350105.1/)
+- **T2T-MMU8v2.0**: [GCF_049350105.2 / GCA_049350105.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_049350105.2/) (NCBI reference genome)
+- T2T-MMU8v1.0: [GCA_049350105.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049350105.1/) (suppressed)
 
 ### UCSC Track Hub
 
@@ -31,7 +31,6 @@ Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigt
 ### Assembly
 
 - [**T2T-MMU8v2.0**](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete and near-perfect genome ([Merqury](https://github.com/marbl/merqury) estimated QV = 100, _k_ = 21; GCI = 100; and no unassembled / collapsed regions and unplaced contigs)
-- [T2T-MMU8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v1.0/T2T-MMU8v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT, complete genome (Merqury estimated QV = 80.11, _k_ = 21; and no unplaced contigs)
 
 ### Sequencing data
 
@@ -58,7 +57,7 @@ Sequencing data will be released upon manuscript submission.
 
 ### Gene annotation
 
-- NCBI RefSeq: under processing
+- NCBI RefSeq (GCF_049350105.2-RS_2025_08): [gff3](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/350/105/GCF_049350105.2_T2T-MMU8v2.0/GCF_049350105.2_T2T-MMU8v2.0_genomic.gff.gz) / [gtf](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/350/105/GCF_049350105.2_T2T-MMU8v2.0/GCF_049350105.2_T2T-MMU8v2.0_genomic.gtf.gz)
 - [Liftoff from T2T-MFA8v1.1 (GCF_037993035.2-RS_2025_03)](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.liftoff-RefSeq_GCF_037993035.2_AXY-Mmul_10_M.gff3.gz)
 - [Liftoff from Mmul_10 (GCF_003339765.1 Annotation Release 103)](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/T2T-MMU8v2.0.liftoff-RefSeq_Mmul_10.gff3.gz)
 
@@ -139,6 +138,7 @@ Zhang, S. _et al_. A complete and near-perfect rhesus macaque reference genome: 
 ## Changelog
 
 ```
+2025-12-12: NCBI RefSeq release (GCF_049350105.2-RS_2025_08).
 2025-08-08: UCSC track hub for T2T-MMU8v2.0.
 2025-08-05: Annotation release for T2T-MMU8v2.0.
 2025-06-19: QV100 release (T2T-MMU8v2.0).

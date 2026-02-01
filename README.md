@@ -121,6 +121,9 @@ All chains were generated with [transanno](https://github.com/informationsea/tra
   - [Mmul_10](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/non_syntenic_regions/non_syntenic_regions.Mmul_10.bed)
   - [rheMacS_1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MMU8/release_v2.0/non_syntenic_regions/non_syntenic_regions.rheMacS_1.0.bed)
 
+> [!IMPORTANT]
+> To verify file integrity, simply append `.md5` to the download URL.
+
 ## Issues
 
 Known issues are tracked in [GitHub issues](https://github.com/zhang-shilong/T2T-MMU8/issues). If you find any errors in the latest version, please raise an issue. Your feedback will help us build more perfect genomic resources.

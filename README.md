@@ -136,7 +136,7 @@ All data is released to the public domain ([CC0 1.0](https://creativecommons.org
 
 We would appreciate if you would acknowledge and cite our paper:
 
-Zhang, S. _et al_. A complete and near-perfect rhesus macaque reference genome: lessons from subtelomeric repeats and sequencing bias. _bioRxiv_ (2025). https://doi.org/10.1101/2025.08.04.668424
+Zhang, S., Xu, N., Lu, Y., Nie, Y., Li, Z., de Gennaro, L., La Torraca, A., Fu, L., Zhang, Z., Chen, J., et al. (2026). Complex subtelomeric architectures in a complete rhesus macaque reference genome. Cell _189_, 4909–4921.e15. https://doi.org/10.1016/j.cell.2026.02.018
 
 ## Changelog
 

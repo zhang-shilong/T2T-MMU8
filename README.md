@@ -49,8 +49,6 @@ Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigt
   - Illumina WGS: [SRR27194597](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27194597) and [SRR34896692](https://www.ncbi.nlm.nih.gov/sra/?term=SRR34896692)
   - Hi-C: [SRR32560531](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560531), [SRR32560532](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560532), [SRR32560533](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560533), [SRR32560534](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560534), [SRR32560535](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560535) and [SRR32560536](https://www.ncbi.nlm.nih.gov/sra/?term=SRR32560536)
 
-Sequencing data will be released upon manuscript submission.
-
 <hr>
 
 ⬇️ **The following annotations are based on T2T-MMU8v2.0.**
